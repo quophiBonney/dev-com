@@ -5,4 +5,7 @@
     <string name="login_option">login with</string>
     <string name="already">Already have an account?</string>
     <string name="dont">Dont have an account?</string>
+    <string name="hint_username">Enter Username</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_password">Enter Password</string>
 </resources>
